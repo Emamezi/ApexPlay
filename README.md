@@ -7,8 +7,9 @@
 The company has a core dataset consisting of orders, order statuses, customers, products, and geographic information. Their data is quite messy (surprise!) and contains plenty of insights that have not yet been discovered by the company. **You’re a data analyst who will be partnering with the head of operations**, Angie, to deliver insights to teams across the company, including finance, sales, product, and marketing. Your focus is to help these stakeholders understand Elist’s performance so they can improve their day-to-day processes and help the company deliver top-notch products to customers around the world.</p>
 <strong>Executive Summary</strong>
 *** Deep level Insghts
-## sales trends
-## product level insignts
+## Sales Trends
+## Product Level Insignts
+## Regional Trends
 ## Growth Rates
 ## Loyaly Program
 ## Refund Rates
