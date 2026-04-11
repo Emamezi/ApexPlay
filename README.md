@@ -1,6 +1,4 @@
-
-<img width="1536" height="508" alt="Feb 11, 2026, 12_20_12 AM" src="https://github.com/user-attachments/assets/00a2d03b-279e-4ca9-be3e-70b01ea31cc7" />
-<img width="1536" height="1024" alt="ApexPlay logo design with glowing effect" src="https://github.com/user-attachments/assets/3be3e981-be3b-44cc-ba54-57d55417bbb1" />
+<img width="1536" height="508" alt="ApexPlay logo design with glowing effect" src="https://github.com/user-attachments/assets/3be3e981-be3b-44cc-ba54-57d55417bbb1" />
 
 <hr>
 <h2>Company Backgorund</h3>
