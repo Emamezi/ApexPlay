@@ -15,15 +15,26 @@ The company has a core dataset consisting of orders, order statuses, customers, 
 ## Growth Rates
 ## Loyaly Program
 ## Refund Rates
+<ul>
+  <li>Refund rate for products climbed signaifcantly from 2019 to 2021 (6%-9%) and then improved in more recent years, dorpping down to 4% in 2021 and dialing down to 0% in 2022.
+</li>
+  <li>Apexplay lost a total of $2.2M in revenue due to refunds across the time period, with major share of refunds coming from 24k gaming monitor($743k) and macbook laptop ($648k) 
+</li>
+  <li>However these two items make up Apex play most expensive products (higher AOV) than other product and a cause for concern
+</li>
+  <li>The least returned product is the Bose soundport headphones with a refund rate of 0%, followed by the samsung charging cable pack at 1.3%, a good indication that these proddct are widely accepted by customers
+</li>
+</ul>
 
-  <ul>
-    <li>Of the total revenue lost due to refund, apple products make up more than half of that, ~53% at $1.2M loss in revenue to refunded products and a 5.9% refund rate and 3k returns<img width="194" height="17" alt="image" src="https://github.com/user-attachments/assets/a2c4cf31-4de0-493c-bf4a-e5ccb94772f8" />
-</li>
-    <li>Frequently most returned apple product was airpods headphones (2622 returns) accounting for 85% or apple product returns. Similary the Macbook air laptop had the highest refund rate (11.9%) amongst apple products, 451 out of 3946 orders<img width="194" height="17" alt="image" src="https://github.com/user-attachments/assets/4a6e687d-a68d-4831-a53a-e08ab0208e89" />
-</li>
-    <li>One in nine MacBook Air customers decided it wasn't worth keeping — and at $1,100 a unit, those 451 decisions didn't just reverse a sale, they likely cost this business close to $700,000 in real net losses when you account for everything that happens after a customer ships a laptop back."<img width="194" height="17" alt="image" src="https://github.com/user-attachments/assets/ece1c572-6894-49ae-9705-2e4ba746fb83" />
-</li>
-  </ul>
+ 
 
 ## Spotlight: Apple Products Refunds
+ <ul>
+    <li>Of the total revenue lost due to refund, apple products make up more than half of that, ~53% at $1.2M loss in revenue to refunded products and a 5.9% refund rate and 3k returns
+</li>
+    <li>Frequently most returned apple product was airpods headphones (2622 returns) accounting for 85% or apple product returns. Similary the Macbook air laptop had the highest refund rate (11.9%) amongst apple products, 451 out of 3946 orders
+</li>
+    <li>One in nine MacBook Air customers decided it wasn't worth keeping — and at $1,100 a unit, those 451 decisions didn't just reverse a sale, they likely cost this business close to $700,000 in real net losses when you account for everything that happens after a customer ships a laptop back."
+</li>
+  </ul>
 ## Recommendation
