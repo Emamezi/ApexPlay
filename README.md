@@ -1,5 +1,7 @@
 
 <img width="1536" height="508" alt="Feb 11, 2026, 12_20_12 AM" src="https://github.com/user-attachments/assets/00a2d03b-279e-4ca9-be3e-70b01ea31cc7" />
+<img width="1536" height="1024" alt="ApexPlay logo design with glowing effect" src="https://github.com/user-attachments/assets/3be3e981-be3b-44cc-ba54-57d55417bbb1" />
+
 <hr>
 <h2>Company Backgorund</h3>
 <p>Founded in 2018, **ApexPlay is an e-commerce company that sells popular electronics products** and has since expanded to a global customer base. Like most e-commerce companies, Elist sells products through their online site as well as through their mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad.
