@@ -1,4 +1,6 @@
-<img width="1536" height="508" alt="ApexPlay logo design with glowing effect" src="https://github.com/user-attachments/assets/3be3e981-be3b-44cc-ba54-57d55417bbb1" />
+<div>
+<img  width="508px" alt="ApexPlay logo design with glowing effect" src="https://github.com/user-attachments/assets/3be3e981-be3b-44cc-ba54-57d55417bbb1" />
+</div>
 
 <hr>
 <h2>Company Backgorund</h3>
