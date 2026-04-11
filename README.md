@@ -15,5 +15,15 @@ The company has a core dataset consisting of orders, order statuses, customers, 
 ## Growth Rates
 ## Loyaly Program
 ## Refund Rates
+
+  <ul>
+    <li>Of the total revenue lost due to refund, apple products make up more than half of that, ~53% at $1.2M loss in revenue to refunded products and a 5.9% refund rate and 3k returns<img width="194" height="17" alt="image" src="https://github.com/user-attachments/assets/a2c4cf31-4de0-493c-bf4a-e5ccb94772f8" />
+</li>
+    <li>Frequently most returned apple product was airpods headphones (2622 returns) accounting for 85% or apple product returns. Similary the Macbook air laptop had the highest refund rate (11.9%) amongst apple products, 451 out of 3946 orders<img width="194" height="17" alt="image" src="https://github.com/user-attachments/assets/4a6e687d-a68d-4831-a53a-e08ab0208e89" />
+</li>
+    <li>One in nine MacBook Air customers decided it wasn't worth keeping — and at $1,100 a unit, those 451 decisions didn't just reverse a sale, they likely cost this business close to $700,000 in real net losses when you account for everything that happens after a customer ships a laptop back."<img width="194" height="17" alt="image" src="https://github.com/user-attachments/assets/ece1c572-6894-49ae-9705-2e4ba746fb83" />
+</li>
+  </ul>
+
 ## Spotlight: Apple Products Refunds
 ## Recommendation
