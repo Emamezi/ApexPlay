@@ -7,6 +7,7 @@
 The company has a core dataset consisting of orders, order statuses, customers, products, and geographic information. Their data is quite messy (surprise!) and contains plenty of insights that have not yet been discovered by the company. **You’re a data analyst who will be partnering with the head of operations**, Angie, to deliver insights to teams across the company, including finance, sales, product, and marketing. Your focus is to help these stakeholders understand Elist’s performance so they can improve their day-to-day processes and help the company deliver top-notch products to customers around the world.</p>
 <strong>Executive Summary</strong>
 *** Deep level Insghts
+
 ## Sales Trends
 <ul>
   <li>
@@ -20,6 +21,7 @@ The company has a core dataset consisting of orders, order statuses, customers, 
 </li>
   <!-- <li></li> -->
 </ul>
+
 ## Product Level Insignts
 <ul>
   <li> Top performing products across the four years are 27in gaming monitor, apple airpods, macbook air laptop and thinkpad laptop which account for 85% of total revenue</li>
@@ -29,6 +31,7 @@ Top pereforming product was the gaming monitor( amoost $10M in sales revenue), w
 
 
 </ul>
+
 ## Regional Trends
 ## Growth Rates
 ## Loyaly Program
@@ -37,6 +40,7 @@ Top pereforming product was the gaming monitor( amoost $10M in sales revenue), w
   <li>Also AOV for loyalty customers have been on a steady growth YoY from inception and even beyond the pandemic boom in 2021 and held steady entering 2021
 </li>
 </ul> 
+
 ## Refund Rates
 <ul>
   <li>Refund rate for products climbed signaifcantly from 2019 to 2021 (6%-9%) and then improved in more recent years, dorpping down to 4% in 2021 and dialing down to 0% in 2022.
@@ -60,4 +64,5 @@ Top pereforming product was the gaming monitor( amoost $10M in sales revenue), w
     <li>One in nine MacBook Air customers decided it wasn't worth keeping — and at $1,100 a unit, those 451 decisions didn't just reverse a sale, they likely cost this business close to $700,000 in real net losses when you account for everything that happens after a customer ships a laptop back."
 </li>
   </ul>
+  
 ## Recommendation
