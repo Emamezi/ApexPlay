@@ -8,10 +8,35 @@ The company has a core dataset consisting of orders, order statuses, customers, 
 <strong>Executive Summary</strong>
 *** Deep level Insghts
 ## Sales Trends
+<ul>
+  <li>
+    From 2019-2022 average number of slaes per year was 27k with an average yearly revenue of $7M and AOV of $254. 2021 saw the highest number of sales 36k, but 2020 on average had the most expensive sales (AOV of $300)
+  </li>
+  <li>Order volume and total sales reveneue more than doubled to $10M with AOV reaching an all time high of $300 across the four years, However 2021 saw the highest order volume but a decline in AOV suggesting customers were spending less but customer base increased</li>
+  <li>In 2022, market stabilized likely relatble to pre-pandemic sales and ordervolume, while AOV retruned to 2019 levels, total sales and order volume inceased by 28% an encouraging sign that not all pandemic era gains were lost</li>
+  <p>Yearly growth Rate</p>
+  <li>2020 by far had the highest explosive growth rate with total sales revenue, number of orders more than doubling from 2019. An explosion across all metics likely liked to the pandemic </li>
+  <li>On average customers in 2020 purchased 31% more expensive basket size than 2019. While number or sales experienced a positive growth in 2021, revenue went down due to customers  now making more value based purchased which reflected in a 15% drop in AOV to $254
+</li>
+  <!-- <li></li> -->
+</ul>
 ## Product Level Insignts
+<ul>
+  <li> Top performing products across the four years are 27in gaming monitor, apple airpods, macbook air laptop and thinkpad laptop which account for 85% of total revenue</li>
+  <li>While 27k gaming monitor contributed mjorly to the total revenue (35%), customers were making more and frequent orders for the apple airpods and headphones, which is almost double the volume amount of the gaming monitor.</li>
+  <li>Total sales from 2019-2022 is 28M with monthly sales ranging from $178k-$1.3M
+Top pereforming product was the gaming monitor( amoost $10M in sales revenue), worst performing roduct is the bose soundport ($3k) though missing data would need to check with team<</li>
+
+
+</ul>
 ## Regional Trends
 ## Growth Rates
 ## Loyaly Program
+<ul>
+  <li>Historically, non loyalty customers have been outspending loyalty customers in basket size up until the end of 2021. Howevere in more recent years (2022) there has been a shift in that trend.Loyalty customers spent on avaegrage $30 more than non-loyalty customers</li>
+  <li>Also AOV for loyalty customers have been on a steady growth YoY from inception and even beyond the pandemic boom in 2021 and held steady entering 2021
+</li>
+</ul> 
 ## Refund Rates
 <ul>
   <li>Refund rate for products climbed signaifcantly from 2019 to 2021 (6%-9%) and then improved in more recent years, dorpping down to 4% in 2021 and dialing down to 0% in 2022.
