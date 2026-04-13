@@ -42,6 +42,10 @@ Top pereforming product was the gaming monitor( amoost $10M in sales revenue), w
 </ul> 
 
 ## Refund Rates
+<div>
+  <img width="599" height="343" alt="Screenshot 2026-04-13 at 1 21 44 AM" src="https://github.com/user-attachments/assets/5d8df375-1659-4e73-ac2d-a1fd6dceb0af" />
+
+</div>
 <ul>
   <li>Refund rate for products climbed signaifcantly from 2019 to 2021 (6%-9%) and then improved in more recent years, dorpping down to 4% in 2021 and dialing down to 0% in 2022.
 </li>
