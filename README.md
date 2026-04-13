@@ -1,3 +1,4 @@
+<img width="648" height="439" alt="Screenshot 2026-04-13 at 1 47 06 AM" src="https://github.com/user-attachments/assets/434d1e92-92f6-46c9-bf46-24c134538677" />
 <div align="center">
 <img  width="720px" alt="ApexPlay logo design with glowing effect" src="https://github.com/user-attachments/assets/3be3e981-be3b-44cc-ba54-57d55417bbb1" />
 </div>
@@ -60,6 +61,11 @@ Top pereforming product was the gaming monitor( amoost $10M in sales revenue), w
  
 
 ## Spotlight: Apple Products Refunds
+<div align="center">
+  <img width="648" height="439" alt="Screenshot 2026-04-13 at 1 47 06 AM" src="https://github.com/user-attachments/assets/461e32e5-2771-4569-8314-fcc705e81e53" />
+</div>
+
+
  <ul>
     <li>Of the total revenue lost due to refund, apple products make up more than half of that, ~53% at $1.2M loss in revenue to refunded products and a 5.9% refund rate and 3k returns
 </li>
