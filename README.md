@@ -13,9 +13,9 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to uncov
 
 <ul>
   <h2>North Star Metrics</h2>
-  <li>Sales Trends
+  <li><b>Sales Trends:</b>
 Analyzing key performance indicators such as total sales revenue, order volume, and average order value (AOV) to understand growth patterns, seasonality, and overall sales performance.</li>
-  <li>Product Performance
+  <li><b>Product Performance:</b>
 Evaluating product lines based on revenue contribution, market demand, and refund rates to identify high-performing products and areas requiring optimization or potential discontinuation.</li>
   <li>Loyalty Program Evaluation
 Assessing the effectiveness of the company’s loyalty program in driving customer engagement, repeat purchases, and retention, with recommendations to enhance its impact.</li>
