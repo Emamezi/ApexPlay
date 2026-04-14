@@ -9,10 +9,25 @@
 Between 2019 and 2022, ApexPlay served over 88,000 customers and processed more than 108,000 transactions, generating over $28 million in revenue. The available dataset covers multiple business dimensions, including sales performance, product trends, regional distribution, and customer loyalty programs.
 
 Reporting to the Head of Operations, an in-depth analysis was conducted to uncover key insights, trends, and overall business performance from ApexPlay’s transaction data between 2019 and 2022. This analysis provides actionable insights for cross-functional teams—including Finance, Sales, Product, and Marketing—to better understand performance, optimize day-to-day operations, and enhance the company’s ability to deliver high-quality products to customers worldwide.
-  
-
-  Like most e-commerce companies, Elist sells products through their online site as well as through their mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad.
 </p>
+
+<ul>
+  <h2>North Star Metrics</h2>
+  <li>Sales Trends
+Analyzing key performance indicators such as total sales revenue, order volume, and average order value (AOV) to understand growth patterns, seasonality, and overall sales performance.</li>
+  <li>Product Performance
+Evaluating product lines based on revenue contribution, market demand, and refund rates to identify high-performing products and areas requiring optimization or potential discontinuation.</li>
+  <li>Loyalty Program Evaluation
+Assessing the effectiveness of the company’s loyalty program in driving customer engagement, repeat purchases, and retention, with recommendations to enhance its impact.</li>
+  <li>
+Regional Performance
+Analyzing sales and product performance across different regions to uncover geographic trends, identify high-growth markets, and highlight areas for operational improvement.</li>
+
+</ul>
+
+
+
+
 <div>
 <h2 align="center">Executive Summary</h2>
   
