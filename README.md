@@ -1,16 +1,25 @@
 <body align="center">
-  
-
-<img width="648" height="439" alt="Screenshot 2026-04-13 at 1 47 06 AM" src="https://github.com/user-attachments/assets/434d1e92-92f6-46c9-bf46-24c134538677" />
 <div align="center">
 <img  width="720px" alt="ApexPlay logo design with glowing effect" src="https://github.com/user-attachments/assets/3be3e981-be3b-44cc-ba54-57d55417bbb1" />
 </div>
-<h2>Company Backgorund</h3>
-<p>Founded in 2018, ApexPlay is an e-commerce company that sells popular electronics products and has since expanded to a global customer base. Like most e-commerce companies, Elist sells products through their online site as well as through their mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad.
+  
+<h2 align="center">>Company Backgorund</h3>
+<p>ApexPlay is an e-commerce company specializing in popular electronic products across the United States. Since its launch in 2018, the company has experienced significant growth, expanding its reach to a global customer base across four regions. Along the way, ApexPlay has faced increasing competition from industry peers, as well as both challenges and opportunities driven by the COVID-19 pandemic.
 
-The company has a core dataset consisting of orders, order statuses, customers, products, and geographic information. Their data is quite messy (surprise!) and contains plenty of insights that have not yet been discovered by the company. **You’re a data analyst who will be partnering with the head of operations**, Angie, to deliver insights to teams across the company, including finance, sales, product, and marketing. Your focus is to help these stakeholders understand Elist’s performance so they can improve their day-to-day processes and help the company deliver top-notch products to customers around the world.</p>
-<strong>Executive Summary</strong>
-*** Deep level Insghts
+Between 2019 and 2022, ApexPlay served over 88,000 customers and processed more than 108,000 transactions, generating over $28 million in revenue. The available dataset covers multiple business dimensions, including sales performance, product trends, regional distribution, and customer loyalty programs.
+
+Reporting to the Head of Operations, an in-depth analysis was conducted to uncover key insights, trends, and overall business performance from ApexPlay’s transaction data between 2019 and 2022. This analysis provides actionable insights for cross-functional teams—including Finance, Sales, Product, and Marketing—to better understand performance, optimize day-to-day operations, and enhance the company’s ability to deliver high-quality products to customers worldwide.
+  
+
+  Like most e-commerce companies, Elist sells products through their online site as well as through their mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad.
+</p>
+<div>
+<h2 align="center">Executive Summary</h2>
+  
+</div>
+
+<h2 align="center">Deep level Insghts</h2>
+ 
 
 ## Sales Trends
 <ul>
