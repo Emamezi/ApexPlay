@@ -3,7 +3,7 @@
 <img  width="720px" alt="ApexPlay logo design with glowing effect" src="https://github.com/user-attachments/assets/3be3e981-be3b-44cc-ba54-57d55417bbb1" />
 </div>
   
-<h2 align="center">>Company Backgorund</h3>
+<h2 align="center">Company Backgorund</h3>
 <p>ApexPlay is an e-commerce company specializing in popular electronic products across the United States. Since its launch in 2018, the company has experienced significant growth, expanding its reach to a global customer base across four regions. Along the way, ApexPlay has faced increasing competition from industry peers, as well as both challenges and opportunities driven by the COVID-19 pandemic.
 
 Between 2019 and 2022, ApexPlay served over 88,000 customers and processed more than 108,000 transactions, generating over $28 million in revenue. The available dataset covers multiple business dimensions, including sales performance, product trends, regional distribution, and customer loyalty programs.
