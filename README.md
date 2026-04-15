@@ -1,9 +1,17 @@
-<body align="center">
+<!-- <body align="center" style="background-color: lightblue;"> -->
+<body style="
+  background-color: lightblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+">
 <div align="center">
 <img  width="520px" alt="ApexPlay logo design with glowing effect" src="https://github.com/user-attachments/assets/3be3e981-be3b-44cc-ba54-57d55417bbb1" / margin=0px>
 </div>
   
-<h2 align="center">Company Backgorund</h3>
+<h1 align="center">Company Backgorund</h1>
 <p>ApexPlay is an e-commerce company specializing in popular electronic products across the United States. Since its launch in 2018, the company has experienced significant growth, expanding its reach to a global customer base across four regions. Along the way, ApexPlay has faced increasing competition from industry peers, as well as both challenges and opportunities driven by the COVID-19 pandemic.
 
 Between 2019 and 2022, ApexPlay served over 88,000 customers and processed more than 108,000 transactions, generating over $28 million in revenue. The available dataset covers multiple business dimensions, including sales performance, product trends, regional distribution, and customer loyalty programs.
@@ -25,6 +33,12 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 
 <div>
 <h2 align="center">Executive Summary</h2>
+  <li>
+    From 2019-2022 average number of slaes per year was 27k with an average yearly revenue of $7M and AOV of $254. 2021 saw the highest number of sales 36k, but 2020 on average had the most expensive sales (AOV of $300)
+  </li>
+  <li>Order volume and total sales reveneue more than doubled to $10M with AOV reaching an all time high of $300 across the four years, However 2021 saw the highest order volume but a decline in AOV suggesting customers were spending less but customer base increased</li>
+  <li>In 2022, market stabilized likely relatble to pre-pandemic sales and ordervolume, while AOV retruned to 2019 levels, total sales and order volume inceased by 28% an encouraging sign that not all pandemic era gains were lost</li>
+  
   
 </div>
 
@@ -32,17 +46,24 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
  
 
 ## Sales Trends
+<h4>The baseline: (2019)</h4>
 <ul>
-  <li>
-    From 2019-2022 average number of slaes per year was 27k with an average yearly revenue of $7M and AOV of $254. 2021 saw the highest number of sales 36k, but 2020 on average had the most expensive sales (AOV of $300)
-  </li>
-  <li>Order volume and total sales reveneue more than doubled to $10M with AOV reaching an all time high of $300 across the four years, However 2021 saw the highest order volume but a decline in AOV suggesting customers were spending less but customer base increased</li>
-  <li>In 2022, market stabilized likely relatble to pre-pandemic sales and ordervolume, while AOV retruned to 2019 levels, total sales and order volume inceased by 28% an encouraging sign that not all pandemic era gains were lost</li>
-  <p>Yearly growth Rate</p>
-  <li>2020 by far had the highest explosive growth rate with total sales revenue, number of orders more than doubling from 2019. An explosion across all metics likely liked to the pandemic </li>
+  <li> Generating $3.87M in revenue from 16,850 orders and a blended AOV of $229. order volume throughout the year was modest and customers average         spend was consistent month over month marked by a seson of steady growth  </li>
+</ul>
+<h4>Pandemic Explosion:</h4>
+<ul>
+   <li>Demdad shock driven by lockdowns, stimulus spending and forced migration of consumer spending to digital channels. The dusiness was at the         right place and time and profited heavily. 2020 by far had the highest explosive growth rate with total sales revenue, number of orders more than     doubling from the previous year 2019. Sales reveneue more than doubled to $10M, jump in revenue was both volume driven (33,851 orders) and customers spending more (AOV $300).</li>
+  <li><b>The macbook laptop, gaming monitor and apple headdhpones</b> were the main drivers of the revenue boost, products associated with home                 entertainment and work from home equipmemnts </li>
+  <li>March 2020 was the bext month by far across the period. It saw an explosive growth across all north star metrics with a 50% MOM expansion in       sales revenue over the previous months. This concides with the start of the COVID-19 pandemic, the closure of brick and mortar stores also drove       increased demand and new customer acquisition to the business model online operation that skyrocked sales growth</li>
+</ul>
+
+<h3>Market Normalization</h3> 
+<ul>
+  <li>Revenue declined by 10% to $9.1M yet order volume grew to 36K- the highest in the entire four year peroid. Customers were still transcating howvever they were making more value purchases and spending less which reflected in an AOV drop to $254 </li>
+<li>In 2022, market stabilized relatable to pre-pandemic sales and ordervolume, while AOV retruned to 2019 levels. Total sales and order volume inceased by 28% an encouraging sign that not all pandemic era gains were lost. The business retained  meaningful share of customeres acquired during the pandemic. </li>
+  
   <li>On average customers in 2020 purchased 31% more expensive basket size than 2019. While number or sales experienced a positive growth in 2021, revenue went down due to customers  now making more value based purchased which reflected in a 15% drop in AOV to $254
 </li>
-  <!-- <li></li> -->
 </ul>
 
 ## Product Level Insignts
