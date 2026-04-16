@@ -33,6 +33,9 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 
 <div>
 <h2 align="center">Executive Summary</h2>
+	Revenue growth in 2020 was driven by both a 101% increase in order volume and higher customer spending, indicating a temporary demand surge rather than sustainable growth. Although order volume remained strong post-2020, declining AOV led to reduced revenue, signaling a shift toward value-conscious purchasing behavior.
+	
+By 2022, declines in both demand and spending suggest a broader market slowdown, highlighting the need to focus on increasing customer spend value rather than acquisition and new customer traffic.
   <li>
     From 2019-2022 average number of slaes per year was 27k with an average yearly revenue of $7M and AOV of $254. 2021 saw the highest number of sales 36k, but 2020 on average had the most expensive sales (AOV of $300)
   </li>
@@ -46,6 +49,20 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
  
 
 ## Sales Trends
+
+Revenue grew steadily throughout 2019 before experiencing explosive growth in 2020, reaching an all-time monthly high of $1.2M in December 2020. This surge was largely driven by the COVID-19 pandemic.
+
+The macbook laptop, gaming monitor and apple headdhpones</b> were the main drivers of the revenue boost, products associated with home                entertainment and work from home equipmemnts
+
+However, this level of growth was not sustained. Revenue declined by 43% sharply in early 2021 from AOV ($311-$255) and over-volume contraction(4K-2.5K), before showing a modest recovery toward the end of 2022, likely driven by seasonal factors such as Black Friday sales and holiday promotions.
+
+Revenue declined sharply from 2021-2022 by a 46% drop indicating a broader market  slowdown and contraction ona quarter-over-quarter basis until it hit an all time low of $178K in October 2022, lowest in the entire time peroid. While Average Order Value (AOV) declined steadily back toward pre-pandemic 2019 levels, order volume experienced a much more severe contraction. Orders fell significantly in September and throughout Q4, reaching the lowest levels across the entire observed period, suggesting demand-side weakness rather than pricing alone driving the downturn
+
+While revenue and order volume remained 28% above 2019 levels, indicating that some pandemic-driven gains were retained, the sharp month-over-month decline in Q4 of 2022 signals a potential downturn.
+Siimilar decline in both revenue and order volume suggests the issue is likely demand-driven rather than pricing-related, and may be attributed to reduced traffic casued by major competitor entry into to the market, weaker conversion rates, or product and inventory constraints.
+
+
+
 <h4>The baseline: (2019)</h4>
 <ul>
   <li> Generating $3.87M in revenue from 16,850 orders and a blended AOV of $229. order volume throughout the year was modest and customers average         spend was consistent month over month marked by a seson of steady growth  </li>
@@ -53,7 +70,7 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 <h4>Pandemic Explosion:</h4>
 <ul>
    <li>Demdad shock driven by lockdowns, stimulus spending and forced migration of consumer spending to digital channels. The dusiness was at the         right place and time and profited heavily. 2020 by far had the highest explosive growth rate with total sales revenue, number of orders more than     doubling from the previous year 2019. Sales reveneue more than doubled to $10M, jump in revenue was both volume driven (33,851 orders) and customers spending more (AOV $300).</li>
-  <li><b>The macbook laptop, gaming monitor and apple headdhpones</b> were the main drivers of the revenue boost, products associated with home                 entertainment and work from home equipmemnts </li>
+  <li><b> </li>
   <li>March 2020 was the bext month by far across the period. It saw an explosive growth across all north star metrics with a 50% MOM expansion in       sales revenue over the previous months. This concides with the start of the COVID-19 pandemic, the closure of brick and mortar stores also drove       increased demand and new customer acquisition to the business model online operation that skyrocked sales growth</li>
 </ul>
 
