@@ -50,38 +50,18 @@ By 2022, declines in both demand and spending suggest a broader market slowdown,
 
 ## Sales Trends
 
-Revenue grew steadily throughout 2019 before experiencing explosive growth in 2020, reaching an all-time monthly high of $1.2M in December 2020. This surge was largely driven by the COVID-19 pandemic.
+* Revenue grew steadily throughout 2019 before experiencing explosive growth in 2020, reaching an all-time monthly high of $1.2M in December 2020. This surge was largely driven by the COVID-19 pandemic.
 
-The macbook laptop, gaming monitor and apple headdhpones</b> were the main drivers of the revenue boost, products associated with home                entertainment and work from home equipmemnts
+* **The macbook laptop, gaming monitor and apple headdhpones** were the main drivers of the revenue boost, products associated with home                entertainment and work from home equipmemnts
 
-However, this level of growth was not sustained. Revenue declined by 43% sharply in early 2021 from AOV ($311-$255) and over-volume contraction(4K-2.5K), before showing a modest recovery toward the end of 2022, likely driven by seasonal factors such as Black Friday sales and holiday promotions.
+- However, **this level of growth was not sustained.** Revenue declined by 43% sharply in early 2021 from AOV ($311-$255) and over-volume contraction(4K-2.5K), before showing a modest recovery toward the end of 2022, likely driven by seasonal factors such as Black Friday sales and holiday promotions.
 
-Revenue declined sharply from 2021-2022 by a 46% drop indicating a broader market  slowdown and contraction ona quarter-over-quarter basis until it hit an all time low of $178K in October 2022, lowest in the entire time peroid. While Average Order Value (AOV) declined steadily back toward pre-pandemic 2019 levels, order volume experienced a much more severe contraction. Orders fell significantly in September and throughout Q4, reaching the lowest levels across the entire observed period, suggesting demand-side weakness rather than pricing alone driving the downturn
+- **Revenue declined sharply from 2021-2022 by a 46% drop** indicating a broader market  slowdown and contraction ona quarter-over-quarter basis until it hit an all time low of $178K in October 2022, lowest in the entire time peroid.
+-  While Average Order Value (AOV) declined steadily back toward pre-pandemic 2019 levels, order volume experienced a much more severe contraction. Orders fell significantly in September and throughout Q4, reaching the lowest levels across the entire observed period, suggesting demand-side weakness rather than pricing alone driving the downturn
 
-While revenue and order volume remained 28% above 2019 levels, indicating that some pandemic-driven gains were retained, the sharp month-over-month decline in Q4 of 2022 signals a potential downturn.
-Siimilar decline in both revenue and order volume suggests the issue is likely demand-driven rather than pricing-related, and may be attributed to reduced traffic casued by major competitor entry into to the market, weaker conversion rates, or product and inventory constraints.
+- **Revenue and order volume remained 28% above 2019 levels**, indicating that some pandemic-driven gains were retained, the sharp month-over-month decline in Q4 of 2022 signals a potential downturn likely demand-driven rather than pricing-related, and may be attributed to reduced traffic casued by major competitor entry into to the market, weaker conversion rates, or product and inventory constraints.
 
 
-
-<h4>The baseline: (2019)</h4>
-<ul>
-  <li> Generating $3.87M in revenue from 16,850 orders and a blended AOV of $229. order volume throughout the year was modest and customers average         spend was consistent month over month marked by a seson of steady growth  </li>
-</ul>
-<h4>Pandemic Explosion:</h4>
-<ul>
-   <li>Demdad shock driven by lockdowns, stimulus spending and forced migration of consumer spending to digital channels. The dusiness was at the         right place and time and profited heavily. 2020 by far had the highest explosive growth rate with total sales revenue, number of orders more than     doubling from the previous year 2019. Sales reveneue more than doubled to $10M, jump in revenue was both volume driven (33,851 orders) and customers spending more (AOV $300).</li>
-  <li><b> </li>
-  <li>March 2020 was the bext month by far across the period. It saw an explosive growth across all north star metrics with a 50% MOM expansion in       sales revenue over the previous months. This concides with the start of the COVID-19 pandemic, the closure of brick and mortar stores also drove       increased demand and new customer acquisition to the business model online operation that skyrocked sales growth</li>
-</ul>
-
-<h3>Market Normalization</h3> 
-<ul>
-  <li>Revenue declined by 10% to $9.1M yet order volume grew to 36K- the highest in the entire four year peroid. Customers were still transcating howvever they were making more value purchases and spending less which reflected in an AOV drop to $254 </li>
-<li>In 2022, market stabilized relatable to pre-pandemic sales and ordervolume, while AOV retruned to 2019 levels. Total sales and order volume inceased by 28% an encouraging sign that not all pandemic era gains were lost. The business retained  meaningful share of customeres acquired during the pandemic. </li>
-  
-  <li>On average customers in 2020 purchased 31% more expensive basket size than 2019. While number or sales experienced a positive growth in 2021, revenue went down due to customers  now making more value based purchased which reflected in a 15% drop in AOV to $254
-</li>
-</ul>
 
 ## Product Level Insignts
 <ul>
