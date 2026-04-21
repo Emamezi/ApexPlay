@@ -96,6 +96,7 @@ Top pereforming product was the gaming monitor( amoost $10M in sales revenue), w
 </li>
   <li>The least returned product is the Bose soundport headphones with a refund rate of 0%, followed by the samsung charging cable pack at 1.3%, a good indication that these proddct are widely accepted by customers
 </li>
+	<LI></LI>
 </ul>
 
  
