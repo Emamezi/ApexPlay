@@ -74,9 +74,10 @@ Top pereforming product was the gaming monitor( amoost $10M in sales revenue), w
 </ul>
 
 ## Regional Trends
-## Growth Rates
-## Loyaly Program
-<ul>
+
+## Loyalty Program
+
+**Loyalty customers who sign-up from mobile place their first order faster than non-loyalty members**~91 days vs 100 days. Likely due to frequent app user engagements such as push notifications and cart reminders
   <li>Historically, non loyalty customers have been outspending loyalty customers in basket size up until the end of 2021. Howevere in more recent years (2022) there has been a shift in that trend.Loyalty customers spent on avaegrage $30 more than non-loyalty customers</li>
   <li>Also AOV for loyalty customers have been on a steady growth YoY from inception and even beyond the pandemic boom in 2021 and held steady entering 2021
 </li>
