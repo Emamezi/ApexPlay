@@ -82,6 +82,8 @@ By 2022, declines in both demand and spending suggest a broader market slowdown,
 
 
 ## Loyalty Program
+<img width="2098" height="904" alt="image" src="https://github.com/user-attachments/assets/30a51b14-41a3-4dda-ab67-0551a3a423e0" />
+
 
 * Historically, non loyalty customers have been outspending loyalty customers in basket size up until the end of 2021. However, as the loyalty program gained popularity over time, loyalty customers’ AOV increased and, by 2022, they were spending on average $30 more than non-loyalty customers.
   
