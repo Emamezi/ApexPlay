@@ -32,23 +32,25 @@ Assessing the effectiveness of the company’s loyalty program in driving custom
 </ul>
 
 <div>
-<h2 align="center">Executive Summary</h2>
-	Revenue growth in 2020 was driven by both a 101% increase in order volume and higher customer spending, indicating a temporary demand surge rather than sustainable growth. Although order volume remained strong post-2020, declining AOV led to reduced revenue, signaling a shift toward value-conscious purchasing behavior.
+	
+## Executive Summary
+<img width="1161" height="562" alt="Screenshot 2026-04-23 at 10 58 14 PM" src="https://github.com/user-attachments/assets/a62d64c1-e17e-4537-b396-fdb946f090c7" />
+
+* Revenue growth in 2020 was driven by both a 101% increase in order volume and higher customer spending, indicating a temporary demand surge rather than sustainable growth. Although order volume remained strong post-2020, declining AOV led to reduced revenue, signaling a shift toward value-conscious purchasing behavior.
 	
 By 2022, declines in both demand and spending suggest a broader market slowdown, highlighting the need to focus on increasing customer spend value rather than acquisition and new customer traffic.
-  <li>
-    From 2019-2022 average number of slaes per year was 27k with an average yearly revenue of $7M and AOV of $254. 2021 saw the highest number of sales 36k, but 2020 on average had the most expensive sales (AOV of $300)
-  </li>
-  <li>Order volume and total sales reveneue more than doubled to $10M with AOV reaching an all time high of $300 across the four years, However 2021 saw the highest order volume but a decline in AOV suggesting customers were spending less but customer base increased</li>
-  <li>In 2022, market stabilized likely relatble to pre-pandemic sales and ordervolume, while AOV retruned to 2019 levels, total sales and order volume inceased by 28% an encouraging sign that not all pandemic era gains were lost</li>
+
+* From 2019-2022 average number of slaes per year was 27k with an average yearly revenue of $7M and AOV of $254. 2021 saw the highest number of sales 36k, but 2020 on average had the most expensive sales (AOV of $300)
+  
+* Order volume and total sales reveneue more than doubled to $10M with AOV reaching an all time high of $300 across the four years, However 2021 saw the highest order volume but a decline in AOV suggesting customers were spending less but customer base increased
+  
+*In 2022, market stabilized likely relatble to pre-pandemic sales and ordervolume, while AOV retruned to 2019 levels, total sales and order volume inceased by 28% an encouraging sign that not all pandemic era gains were lost</li>
   
   
-</div>
 
-<h2 align="center">Deep level Insghts</h2>
- 
 
-## Sales Trends
+## Deep level Insghts
+### Sales Trends
 
 * Revenue grew steadily throughout 2019 before experiencing explosive growth in 2020, reaching an all-time monthly high of $1.2M in December 2020. This surge was largely driven by the COVID-19 pandemic.
 
@@ -64,13 +66,15 @@ By 2022, declines in both demand and spending suggest a broader market slowdown,
 
 
 ## Product Level Insignts
+<DIV align="center">	
 <img width="861" height="469" alt="Screenshot 2026-04-23 at 1 53 36 PM" src="https://github.com/user-attachments/assets/99908e2f-3780-4e79-9aea-40295eb746bf" />
+</DIV>
+* Top performing products across the four years are 27in gaming monitor, apple airpods, macbook air laptop and thinkpad laptop which account for 85% of total revenue
 
-<img width="1094" height="423" alt="Screenshot 2026-04-23 at 12 43 37 PM" src="https://github.com/user-attachments/assets/8be85476-e05a-433a-a166-7f3b37850e68" />
-
-* Top performing products across the four years are 27in gaming monitor, apple airpods, macbook air laptop and thinkpad laptop which account for 85% of total revenue</li>
-* While 27k gaming monitor contributed mjorly to the total revenue (35%), customers were making more and frequent orders for the apple airpods and headphones, which is almost double the volume amount of the gaming monitor.</li>
+* While 27k gaming monitor contributed mjorly to the total revenue (35%), customers were making more and frequent orders for the apple airpods and headphones, which is almost double the volume amount of the gaming monitor.
+  
 * Total sales from 2019-2022 is 28M with monthly sales ranging from $178k-$1.3M
+  
 * Top pereforming product was the gaming monitor( amoost $10M in sales revenue), worst performing roduct is the bose soundport ($3k) though missing data would need to check with team
 
 
@@ -80,8 +84,11 @@ By 2022, declines in both demand and spending suggest a broader market slowdown,
 ## Loyalty Program
 
 * Historically, non loyalty customers have been outspending loyalty customers in basket size up until the end of 2021. However, as the loyalty program gained popularity over time, loyalty customers’ AOV increased and, by 2022, they were spending on average $30 more than non-loyalty customers.
+  
 * AOV and order volume for loyalty customers have sustained growth beyond the pandemic boom with revenue growing $0.4 in 2019 to $2.7M in 2022 and an AOV growth rate of 18% from 2019 to 2022.
+  
 * Non-loyalty customers who initially outspent loyalty members began to decline in early 2021, both order frequency and spend per transaction decreasing over time. By Q4 2022, both segments had dipped and were following a similar downward trend overall.
+  
 * **Loyalty customers who sign-up from mobile place their first order faster than non-loyalty members**~91 days vs 100 days. Likely due to frequent app user engagements such as push notifications and cart reminders
 
 
@@ -121,8 +128,11 @@ By 2022, declines in both demand and spending suggest a broader market slowdown,
 
 ## Regional Trends
 * All regions exhibit similar trends in sales, with a spike and peaking in 2021 and steadily declining afterwards.
+  
 * North America accounts for 55% of total revenue ($15 million), reflecting a dominant and well-established market position. However, this presents a company wide risk of a regional market disruption and the need for diversification amongst other underperfomring regions.
+  
 * APAC region persenet the biggest opportunity for growth. Customers from APAC region have over the years spent more per transaction than any other region and has a AOV growth rate of 17.5% from 2019 to 2022.
+  
 * A high AOV coupled with low order volume ($279, 13K orders) in the APAC region indicates a potential growth gap that warrants further exploration. This may point to limited marketing reach or awareness, supported by the relatively flat performance across marketing channels in the region.
 
 
